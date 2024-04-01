@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Personal Data</string>
+    <string name="col1">IDENTITAS DIRI</string>
+    <string name="row1satu">Nama Lengkap</string>
+    <string name="row1dua">Nurul Alya</string>
+    <string name="row2satu">NIM</string>
+    <string name="row2dua">H071221009</string>
+    <string name="row3satu">Jenis Kelamin</string>
+    <string name="row3dua">Perempuan</string>
+    <string name="row5satu">Hobi</string>
+    <string name="row5dua">Nonton Film</string>
+    <string name="row6satu">Warna Favorit</string>
+    <string name="row6dua">Hitam</string>
+    <string name="row9satu">Hewan Favorit</string>
+    <string name="row9dua">Kucing</string>
+    <string name="row10satu">Idola KPOP Favorit</string>
+    <string name="row10dua">Lalisa Manoban</string>
+    <string name="row11satu">Alamat</string>
+    <string name="row11dua">Tamalanrea Indah</string>
+    <string name="row12satu">Program Studi</string>
+    <string name="row12dua">Sistem Informasi</string>
+    <string name="row13satu">Departemen</string>
+    <string name="row13dua">Matematika</string>
+    <string name="row14satu">Fakultas</string>
+    <string name="row14dua">Matematika dan Ilmu Pengetahuan Alam</string>
+    <string name="row15satu">Universitas</string>
+    <string name="row15dua">Hasanuddin</string>
+</resources>
